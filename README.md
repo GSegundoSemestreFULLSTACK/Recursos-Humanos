@@ -1,0 +1,2 @@
+# Recursos-Humanos
+el sitio Institucional es para su empresa/consultora (con Sistema de Gestión de Contenidos).  El proyecto aprobado será para un potencial cliente al cual le crearán la App con registro de Usuario  y posterior login con datos exclusivos, y un futuro ecommerce/tienda virtual/ carrito de compra.  Siempre teniendo como meta que sea innovador y diferenciador con respecto al mercado para su posterior comercialización.
